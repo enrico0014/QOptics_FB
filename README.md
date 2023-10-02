@@ -8,5 +8,5 @@ In particular, we plan to investigate FBs coupled to so called _giant atoms_, a 
 
 - /sawtooth/ : notebooks for the simulation of the 1D sawtooth lattice.
 - /stub/ : notebooks for the simulation of the stub lattice (Lieb 1D).
-- /double_comb/ : notebooks for the simulation of the 1D double-comb lattice.
+- /double-comb/ : notebooks for the simulation of the 1D double-comb lattice.
 - /checkerboard/ : notebooks for the simulation of the 2D checkerboard model with a singular FB.
